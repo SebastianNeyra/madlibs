@@ -1,0 +1,3 @@
+# What is a MadLib? 
+## Mad Libs is a phrasal template word game created by Leonard Stern and Roger Price. It consists of one player prompting others for a list of words to substitute for blanks in a story before reading aloud. The game is frequently played as a party game or as a pastime. For more information about MadLibs, please click on link below: 
+### Link: https://en.wikipedia.org/wiki/Mad_Libs#:~:text=Mad%20Libs%20is%20a%20phrasal,game%20or%20as%20a%20pastime. 
